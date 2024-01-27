@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello 👋
 
-- 🔭f I’m currently working on developing complex web applications using javscript, node.js, and react.
-- 🌱 I’m currently learning more php and django to enhance my web knowledge.
+- 🔭 I’m currently working on developing complex web applications using javscript, node.js, and react.
+- 🌱 I’m currently learning more php and game development to enhance my programming skills.
 - 👯 I’m looking to collaborate on opensource AI projects.
 - 💬 Ask me about my video editing and content creation side business teamtreesap.com
 - 📫 How to reach me: brianriendeaujr@gmail.com
