@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing complex web applications using javscript, node.js, and react.
 - 🌱 I’m currently learning more php and game development to enhance my programming skills.
 - 👯 I’m looking to collaborate on opensource AI projects.
-- 💬 Ask me about my video editing and content creation side business teamtreesap.com
+- 💬 Ask me about my content creation side business I started at pureathenamedia.com
 - 📫 How to reach me: brianriendeaujr@gmail.com
 - ⚡ Fun fact: I love to play piano, especially final fantasy intro music.
 
