@@ -1,10 +1,9 @@
 ### Hello 👋
 
 - 🔭 I’m currently working on developing complex web applications for start-ups using javascript, php, MySQL, node.js, and react.
-- 🌱 I’m currently learning more php and game development to enhance my programming skills.
-- 👯 I’m looking to collaborate on opensource AI projects.
-- 📫 How to reach me: brianriendeaujr@gmail.com
-- ⚡ Fun fact: I love to play piano, especially final fantasy intro music.
+- - 📫 How to reach me: brianriendeaujr@gmail.com
+- 🌱 I’m currently learning more advanced php and mySQL techniques for building large production applications.
+- ⚡ Fun fact: I love to play piano, ride dirtbikes, fish, and help others learn to code or do physics.
 
 <!--
 **briendeau/briendeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
