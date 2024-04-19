@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing complex web applications for start-ups using javascript, php, MySQL, node.js, and react.
 - 📫 How to reach me: brianriendeaujr@gmail.com
 - 🌱 I’m currently learning more advanced php and MySQL normalization techniques for building large production applications.
-- ⚡ Fun fact: I love to play piano, ride dirtbikes, fish, and help others learn to code or do physics.
+- ⚡ Fun fact: I love to play piano, bodybuild, ride dirtbikes, fish, and help others learn to code, workout, or do physics.
 
 <!--
 **briendeau/briendeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
