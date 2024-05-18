@@ -1,5 +1,2 @@
-Hi! My name is Stefan Topalović 😄
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
-
-Skills
-My Skills       My Skills       My Skills       My Skills       My Skills
+Hi! My name is Brian Riendeau 😄
+🌍  I am a Full-Stack Developer based in Point Pleasant, West Virginia.
