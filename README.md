@@ -3,7 +3,7 @@
 Hello! My name is Brian Riendeau Jr. 😄
 🌍  I am a Full-Stack Developer based in Point Pleasant, West Virginia.
 ========================================================================================================================================
-Visit my portfolio website at https://brianriendeau.com/
+
 
 <br/>
 
