@@ -1,7 +1,7 @@
 
 
-Hello! My name is Brian Riendeau Jr.
-🌍  I am a Full-Stack Developer based in West Virginia.
+Hello! My name is Brian Riendeau.
+🌍  I am a Full-Stack Developer living in West Virginia. I am looking for work!
 ========================================================================================================================================
 
 
