@@ -2,7 +2,7 @@
 
 <h4>Hello. I'm Brian Riendeau. 
 I am currently looking for work in web development.
-========================================================================================================================================
+<br />
 I help teach people how to program at my website: https://brianriendeau.com/
 
 </h4>
