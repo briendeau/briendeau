@@ -1,10 +1,11 @@
 
 
-<h4>Hello! My name is Brian Riendeau. </h4>
-🌍  I am a Full-Stack Developer living in West Virginia. 
-I am looking for work!
-I teach people how to program at my website: https://brianriendeau.com/
+<h4>Hello. I'm Brian Riendeau. 
+I am currently looking for work in web development.
 ========================================================================================================================================
+I help teach people how to program at my website: https://brianriendeau.com/
+
+</h4>
 
 
 <br/>
