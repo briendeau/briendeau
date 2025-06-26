@@ -1,7 +1,7 @@
 
 
 <h4>Hello. I'm Brian Riendeau. 
-I am currently looking for work in web development.
+I am currently looking for work in web development, data analysis, research, an AI.
 <br />
 I help teach people how to build websites at my own website: https://brianriendeau.com/
 
