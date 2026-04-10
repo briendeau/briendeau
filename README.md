@@ -1,9 +1,8 @@
 
 
 <h4>Hello. I'm Brian Riendeau. 
-I am currently looking for work in web development, data analysis, research, and AI.
+I am currently looking for work opportunities, feel free to reach out at brianriendeaujr@gmail.com 
 <br />
-I help teach people how to build websites at my own website: https://brianriendeau.com/
 
 </h4>
 
